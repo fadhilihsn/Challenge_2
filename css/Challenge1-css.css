@@ -1,0 +1,145 @@
+.hero-section{
+    background-color: #F1F3FF;
+    ;
+}
+.navbar-nav > li{
+    margin-left:7px;
+    margin-right:7px;
+  }
+.back{
+    background-color: #0D28A6;
+    width: 1168px ;
+    height: 326px;
+    
+}
+
+
+
+
+.navbar-nav{
+    font-family:'Helvetica';
+    font-size: 14px;
+    color: black;
+    font-weight: bold;
+}
+.logo{
+    width: 100px; 
+    height: 34px; 
+    background-color: #0D28A6;
+
+}
+h1{
+    font-family:'Helvetica';
+
+}
+h2{
+    font-size: 16px !important;
+    font-weight: bold !important;
+}
+
+p{
+    font-size: 14px;
+    font-family:'Helvetica';
+
+}
+.klik{
+    margin-bottom: 5px;
+   
+}
+.klik:active{
+    margin-top: 3px;
+    margin-bottom: 2px;
+}
+
+html,body
+{
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden; 
+}
+.responsive{
+    max-width: 100%;
+}
+
+.capt{
+    width: 415px;
+}
+.Cta1{
+    font-size: 40px;
+}
+
+.Cta{
+    width: 468px; 
+}
+.backk{
+    background-color: #F1F3FF;
+    ;
+
+}
+.offcanvas.offcanvas-end{
+    width: 200px;
+}
+
+@media only screen and (max-width: 600px) {
+    .poss {
+      text-align: center;
+    }
+    .foto{
+        margin-left: 5.75rem;
+
+    }
+    .rat3{
+        margin-left:8.6rem;
+        margin-top: 1.25rem;
+
+    }
+    .capt{
+        width: 18rem;
+        margin-left: 2.25rem;  
+        
+    }
+    .testi{
+        margin-right: 1.25rem;
+        margin-left: 1.25rem;
+       
+    }
+   .back{
+    width: 328px;
+    height: 400px;
+   }
+   .Cta{
+    width: 250px;
+    height: 204px;
+    
+   } 
+   .Cta1{
+    font-size: 28px;
+   }
+   
+  }
+
+  @media only screen and (max-width: 992px) {
+    
+    .foto{
+        margin-left: 5.75rem;
+
+    }
+    .rat3{
+        margin-left:8.6rem;
+        margin-top: 1.25rem;
+
+    }
+    .capt{
+        width: 18rem;
+        margin-left: 2.25rem;  
+        
+    }
+    .testi{
+        margin-right: 1.25rem;
+        margin-left: 1.25rem;
+       
+    }
+  
+   
+  }
+
